@@ -14,7 +14,7 @@ A simple quistion and answer app that connect to dummy api service (json-server)
 
 ## Sample Preview App
 
-<img src="https://raw.githubusercontent.com/xdenistwn/react-quiz/refs/heads/main/public/images/preview-app/dashboard-1.png" width="550" height="550" height="auto">
+<img src="https://raw.githubusercontent.com/xdenistwn/react-quiz/refs/heads/main/public/images/preview-app/dashboard-1.png" height="480">
 
 ```
 # Getting Started with Create React App
